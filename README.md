@@ -1,6 +1,6 @@
 # Quantifying Under-Reporting in Longitudinal Health Data: Genital Warts Example
 
-This repository reproduces the results from the study "Quantifying the Under-Reporting of Uncorrelated Longitudinal Data: The Genital Warts Example" by Moriña et al. (2021). The aim is to estimate the true incidence of genital warts (GW) cases in Catalunya by addressing the under-reporting in health data. The study uses a mixture model to quantify under-reporting and adjusts for missing data, particularly for the period 2009-2016.
+This repository reproduces the results from the study "Quantifying the Under-Reporting of Uncorrelated Longitudinal Data: The Genital Warts Example" by Moriña et al. (2021). The aim is to estimate the true incidence of genital warts (GW) cases in Catalunya by addressing the under-reporting in health data. The study uses a mixture model to quantify under-reporting and adjusts for missing data, particularly for the period 2009-2016. I did this project during my mathematical modeling workshop in UAB under DR. David Moriña.
 
 ## Project Overview
 
@@ -65,5 +65,11 @@ The analysis uses data from the Catalan public health system (SIDIAP) for the pe
 
 - The models and estimation methods are implemented in **R**.
 - The key R package used for parameter estimation is `mixtools`, which is employed for fitting the mixture model and obtaining the maximum likelihood estimates.
+## References
+Moriña, D., Fernández-Fontelo, A., Cabaña, A., Puig, P., Monfil, L., Brotons, M., & Diaz, M. (2020). Quantifying the Under-Reporting of Uncorrelated Longitudinal Data: The Genital Warts Example. BMC Medical Research Methodology.
 
+## Contact
 
+For any questions or inquiries, please contact:
+- Vishal Nair
+- Email: [v1292002@gmail.com](mailto:v1292002@gmail.com)
